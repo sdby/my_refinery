@@ -13,5 +13,7 @@
  *= require_tree .
  *= require refinery/formatting
  *= require refinery/theme
+ *= require material
+ *= require material-icons
  *= require_self
  */
